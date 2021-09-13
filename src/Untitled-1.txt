@@ -1,0 +1,156 @@
+ <
+            section id = "blog" >
+            <
+            div className = "container" >
+            <
+            div className = "section-header" >
+            <
+            h2 className = "section-title text-center wow fadeInDown" > Careers < /h2> <
+            p className = "text-center wow fadeInDown" > Cloud Technology creating dominance in the industry to provide the quick services to run the business as per demand < br / > all open sources like hadoop has there value in the future. < /p> < /
+            div >
+
+            <
+            div className = "row" >
+            <
+            div className = "col-sm-6" >
+            <
+            div className = "blog-post blog-large wow fadeInLeft"
+            data_wow_duration = "300ms"
+            data_wow_delay = "0ms" >
+            <
+            article >
+            <
+            header className = "entry-header" >
+            <
+            div className = "entry-thumbnail" >
+            <
+            img className = "img-responsive"
+            src = "images/blog/01.jpg"
+            alt = "" / >
+            <
+            span className = "post-format post-format-video" > < i className = "fa fa-film" > < /i></span >
+            <
+            /div> <
+            div className = "entry-date" > 25 November 2014 < /div> <
+            h2 className = "entry-title" > < a href = "#" > While now the fated Pequod had been so long afloat this < /a> < /
+            h2 > <
+            /header>
+
+            <
+            div className = "entry-content" >
+            <
+            P > With a blow from the top - maul Ahab knocked off the steel head of the lance,
+            and then handing to the mate the long iron rod remaining,
+            bade him hold it upright,
+            without its touching off the steel head of the lance,
+            and then handing to the mate the long iron rod remaining.without its touching off the steel without its touching off the steel < /P> <
+            a className = "btn btn-primary"
+            href = "#" > Read More < /a> < /
+            div >
+
+            <
+            footer className = "entry-meta" >
+            <
+            span className = "entry-author" > < i className = "fa fa-pencil" > < /i> <a href="#">Victor</a > < /span> <
+            span className = "entry-category" > < i className = "fa fa-folder-o" > < /i> <a href="#">Tutorial</a > < /span> <
+            span className = "entry-comments" > < i className = "fa fa-comments-o" > < /i> <a href="#">15</a > < /span> < /
+            footer > <
+            /article> < /
+            div > <
+            /div>
+            //  --col-sm-6--
+            <
+            div className = "col-sm-6" >
+            <
+            div className = "blog-post blog-media wow fadeInRight"
+            data_wow_duration = "300ms"
+            data_wow_delay = "100ms" >
+            <
+            article className = "media clearfix" >
+            <
+            div className = "entry-thumbnail pull-left" >
+            <
+            img className = "img-responsive"
+            src = "images/blog/02.jpg"
+            alt = "" / >
+            <
+            span className = "post-format post-format-gallery" > < i className = "fa fa-image" > < /i></span >
+            <
+            /div> <
+            div className = "media-body" >
+            <
+            header className = "entry-header" >
+            <
+            div className = "entry-date" > 01 December 2014 < /div> <
+            h2 className = "entry-title" > < a href = "#" > BeReviews was a awesome envent in dhaka < /a> < /
+            h2 > <
+            /header>
+
+            <
+            div className = "entry-content" >
+            <
+            P > With a blow from the top - maul Ahab knocked off the steel head of the lance,
+            and then handing to the steel < /P> <
+            a className = "btn btn-primary"
+            href = "#" > Read More < /a> < /
+            div >
+
+            <
+            footer className = "entry-meta" >
+            <
+            span className = "entry-author" > < i className = "fa fa-pencil" > < /i> <a href="#">Campbell</a > < /span> <
+            span className = "entry-category" > < i className = "fa fa-folder-o" > < /i> <a href="#">Tutorial</a > < /span> <
+            span className = "entry-comments" > < i className = "fa fa-comments-o" > < /i> <a href="#">15</a > < /span> < /
+            footer > <
+            /div> < /
+            article > <
+            /div> <
+            div className = "blog-post blog-media wow fadeInRight"
+            data_wow_duration = "300ms"
+            data_wow_delay = "200ms" >
+            <
+            article className = "media clearfix" >
+            <
+            div className = "entry-thumbnail pull-left" >
+            <
+            img className = "img-responsive"
+            src = "images/blog/03.jpg"
+            alt = "" / >
+            <
+            span className = "post-format post-format-audio" > < i className = "fa fa-music" > < /i></span >
+            <
+            /div> <
+            div className = "media-body" >
+            <
+            header className = "entry-header" >
+            <
+            div className = "entry-date" > 03 November 2014 < /div> <
+            h2 className = "entry-title" > < a href = "#" > Play list of old bangle music and gajal < /a> < /
+            h2 > <
+            /header>
+
+            <
+            div className = "entry-content" >
+            <
+            P > With a blow from the top - maul Ahab knocked off the steel head of the lance,
+            and then handing to the steel < /P> <
+            a className = "btn btn-primary"
+            href = "#" > Read More < /a> < /
+            div >
+
+            <
+            footer className = "entry-meta" >
+            <
+            span className = "entry-author" > < i className = "fa fa-pencil" > < /i> <a href="#">Ruth</a > < /span> <
+            span className = "entry-category" > < i className = "fa fa-folder-o" > < /i> <a href="#">Tutorial</a > < /span> <
+            span className = "entry-comments" > < i className = "fa fa-comments-o" > < /i> <a href="#">15</a > < /span> < /
+            footer > <
+            /div> < /
+            article > <
+            /div> < /
+            div > <
+            /div>
+
+            <
+            /div> < /
+            section >
